@@ -1,0 +1,4 @@
+[n(sleep_more_than_8_hours), tired] 
+[n(exhausted), n(tired), bad_health]
+[n(feels_nauseous), n(tired), take_rest]
+[n(bad_health), n(previous_surgeries), receive_free_medical_review]]
